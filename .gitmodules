@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "drawer"]
-	path = drawer
-	url = https://github.com/lz100/drawer
-	shallow = true
-	registered = true
 [submodule "spsComps"]
 	path = spsComps
 	url = https://github.com/lz100/spscomps

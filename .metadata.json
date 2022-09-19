@@ -1,9 +1,5 @@
 [
   {
-    "package": "drawer",
-    "oncran": true
-  },
-  {
     "package": "spsComps",
     "oncran": true
   },
